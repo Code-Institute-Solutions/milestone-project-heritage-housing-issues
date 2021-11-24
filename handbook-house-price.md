@@ -1,4 +1,14 @@
-# Business Case Assessment
+In case you have chosen the **Project Idea: Heritage Housing Issues**, please consider the following instructions
+
+---
+
+## Repository Template
+In case you do not want to build one repo from scratch, we suggest you fork this [repo](https://github.com/Code-Institute-Solutions/milestone-project-heritage-housing-issues). Once you forked you may also personalize and rename the repo if you want to.
+
+---
+
+
+## Business Case Assessment
 You have already conducted a business case assessment, so you can also use that information to build your project README file 
 
 * 1: What are the business requirements?	
@@ -39,7 +49,7 @@ You have already conducted a business case assessment, so you can also use that 
 
 
 
-# Project considerations
+## Project considerations
 * In case you want to use a spreadsheet to list your variables for the data cleaning and feature engineering steps, you may download the template in this [link](https://docs.google.com/spreadsheets/d/1pucuXPJM3UIaj6vb08NVanujpv0EcHol/edit?usp=sharing&ouid=104188414838408143200&rtpof=true&sd=true). This file will not be assessed and it will not be marked to compose your final grade, it is just an auxiliary file you can use in your workflow
     * In this file, you should list the names of the variables
 
@@ -54,7 +64,7 @@ You have already conducted a business case assessment, so you can also use that 
 
 
 
-# Dashboard expectations
+## Dashboard expectations
 * Your dashboard should contain at least:
     * A project summary, showing the project dataset summary and client's requirements.
     * A page listing your findings related to which features contribute most to house sale price.
