@@ -1,5 +1,5 @@
 ## Dataset Content
-* The dataset is sourced from [Kaggle](https://www.kaggle.com/gyanshashwat1611/housing-prices-data). We created then a fictitious user story where predictive analytics can be applied in a real project in the workplace. 
+* The dataset is sourced from [Kaggle](https://www.kaggle.com/codeinstitute/housing-prices-data). We created then a fictitious user story where predictive analytics can be applied in a real project in the workplace. 
 * Each row represents a record indicating a house profile (Floor Area, Basement, Garage, Kitchen, Lot, Porch, Year Built) and its respective sale price 
 
 |Variable|Meaning|Units|
