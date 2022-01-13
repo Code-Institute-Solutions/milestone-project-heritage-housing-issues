@@ -38,7 +38,7 @@ As a good friend, you are requested by your friend, who has received an inherita
 
 Although your friend has an excellent understanding of property prices in her own state and residential area, she fears that basing her estimates for property worth on her current knowledge might lead to inaccurate appraisals. What makes a house desirable and valuable where she comes from might not be the same in Ames, Iowa. She found a public dataset with house prices for Ames, Iowa, and will provide you with that
 
-* 1 - Lydia is interested in investigating how the house attributes are correlated with the sales price
+* 1 - The client is interested in discovering how the house attributes correlate with the sale price. Therefore, the client expects data visualizations of the correlated variables against the sale price to show that.
 * 2 - The client is interested to predict the house sales price from her 4 inherited houses, and any other house in Ames, Iowa.
 
 
