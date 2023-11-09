@@ -9,7 +9,7 @@ RUN apt-get update \
 RUN curl https://cli-assets.heroku.com/install.sh | sh
 RUN curl -fsSL https://deb.nodesource.com/setup_16.x | bash - && apt-get install -y nodejs
 
-ARG USERNAME=codeany
+ARG USERNAME=cistudent
 RUN useradd -ms /bin/bash $USERNAME
 USER $USERNAME
 WORKDIR /home/$USERNAME
@@ -28,7 +28,7 @@ RUN set -ex \
     && python3 -m pip install --no-cache-dir --upgrade pip \
     && python3 -m pip install --no-cache-dir --upgrade setuptools wheel virtualenv pipenv pylint rope flake8  mypy autopep8 pep8 pylama pydocstyle bandit notebook twine jupyter
 
-ENV PATH=$PATH:"/home/codeany/.local/bin"
+ENV PATH=$PATH:"/home/cistudent/.local/bin"
 
 RUN echo 'alias python=python3' >> ~/.bashrc && \
     echo 'export PIP_USER=yes' >> ~/.bashrc && \
