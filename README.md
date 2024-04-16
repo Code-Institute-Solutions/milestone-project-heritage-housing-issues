@@ -147,4 +147,6 @@ Although your friend has an excellent understanding of property prices in her ow
 
 ## Acknowledgements (optional)
 
+
 * In case you would like to thank the people that provided support through this project.
+
