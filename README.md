@@ -28,7 +28,7 @@ You can safely delete the Template Instructions section of this README.md file, 
 
 12. Click the kernel button and choose Python Environments.
 
-Note that the kernel says Python 3.8.18 as it inherits from the workspace so it will be Python-3.8.18 as installed by our template. To confirm this you can use `! python --version` in a notebook code cell.
+Note that the kernel says Python 3.12.2 as it inherits from the workspace so it will be Python-3.12.2 as installed by our template. To confirm this you can use `! python --version` in a notebook code cell.
 
 ## Cloud IDE Reminders
 
@@ -109,7 +109,7 @@ Although your friend has an excellent understanding of property prices in her ow
 ### Heroku
 
 * The App live link is: <https://YOUR_APP_NAME.herokuapp.com/>
-* Set the runtime.txt Python version to a [Heroku-20](https://devcenter.heroku.com/articles/python-support#supported-runtimes) stack currently supported version.
+* Set the .python-version Python version to a [Heroku-24](https://devcenter.heroku.com/articles/python-support#supported-runtimes) stack currently supported version.
 * The project was deployed to Heroku using the following steps.
 
 1. Log in to Heroku and create an App
