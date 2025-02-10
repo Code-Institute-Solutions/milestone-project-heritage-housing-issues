@@ -12,23 +12,19 @@ You can safely delete the Template Instructions section of this README.md file, 
 
 1. Use this template to create your GitHub project repo
 
-2. Log into the cloud-based IDE with your GitHub account.
+2. In your new repo click on the green Code button
 
-3. On your Dashboard, click on the Create button
+3. Then, from the Codespaces tab, click Create codespace on main.
 
-4. Paste in the URL you copied from GitHub earlier
+5. Wait for the workspace to open. This can take a few minutes.
 
-5. Click Create
+6. Open a new terminal and `pip3 install -r requirements.txt`
 
-6. Wait for the workspace to open. This can take a few minutes.
+7. Open the jupyter_notebooks directory and click on the notebook you want to open.
 
-7. Open a new terminal and `pip3 install -r requirements.txt`
+8. Click the kernel button and choose Python Environments.
 
-11. Open the jupyter_notebooks directory and click on the notebook you want to open.
-
-12. Click the kernel button and choose Python Environments.
-
-Note that the kernel says Python 3.12.2 as it inherits from the workspace so it will be Python-3.12.2 as installed by our template. To confirm this you can use `! python --version` in a notebook code cell.
+Note that the kernel says Python 3.12.1 as it inherits from the workspace so it will be Python-3.12.1 as installed by Codespaces. To confirm this you can use `! python --version` in a notebook code cell.
 
 ## Cloud IDE Reminders
 
